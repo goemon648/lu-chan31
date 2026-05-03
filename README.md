@@ -1,45 +1,26 @@
-<!--
-**lu-chan31/lu-chan31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 1. GitHub usernameを変更 -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=lu-chan31" />
 </div>
 
-<!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning Go!
+🦎 バックエンドエンジニアが好き！  
+🏢 SIerでプロジェクト管理をゴリゴリしています  
+🐹 今はGoを猛勉強中…！  
 <br>
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## My GitHub Activity
+![lu-chan31's GitHub stats](https://github-readme-stats-xi-one-31.vercel.app/api?username=lu-chan31&show_icons=true&theme=vue-dark)
+
+![Top Langs](https://github-readme-stats-xi-one-31.vercel.app/api/top-langs?username=lu-chan31&layout=compact&theme=vue-dark)
+<br><br>
+
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,go,docker,terraform,aws" />
-<br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,go,kotlin,java,mysql,redis,github,docker,aws,jenkins" />
+<br><br>
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=lu-chan31&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu-chan31&theme=vue-dark&layout=compact" />
-</div>
+## Commits
+![GitHub Contribution Graph](https://ghchart.rshah.org/lu-chan31)
+<br><br>
 
-
-
-
+![dino](https://raw.githubusercontent.com/lu-chan31/lu-chan31/output/github-contribution-grid-dino.gif)
