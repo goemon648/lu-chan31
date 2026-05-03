@@ -23,4 +23,4 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/lu-chan31)
 <br><br>
 
-![dino](https://raw.githubusercontent.com/lu-chan31/lu-chan31/output/github-contribution-grid-dino.gif)
+![space-shooter](./game.gif)
